@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar_check_button" type="id" />
+    <item name="check_buttom" type="id" />
+    <item name="check_button" type="id" />
+</resources>
